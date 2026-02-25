@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://cdn.discordapp.com/attachments/1473008976915333397/1476164756456083568/10bf8b49-fcb9-4199-8440-135fe7e54e78.jpg?ex=69a0210f&is=699ecf8f&hm=02ed1ffe2a3d42e4699fe07648c48b5062c6d7a3972583ff49d172517c6160d0&))
+[![MasterHead]([[http:ile istediginiz fotoğrafın linkini buraya yazın](https://cdn.discordapp.com/attachments/1473008976915333397/1476164756456083568/10bf8b49-fcb9-4199-8440-135fe7e54e78.jpg?ex=69a0210f&is=699ecf8f&hm=02ed1ffe2a3d42e4699fe07648c48b5062c6d7a3972583ff49d172517c6160d0&)](https://cdn.discordapp.com/attachments/1473008976915333397/1476164756456083568/10bf8b49-fcb9-4199-8440-135fe7e54e78.jpg?ex=69a0210f&is=699ecf8f&hm=02ed1ffe2a3d42e4699fe07648c48b5062c6d7a3972583ff49d172517c6160d0&))
 <h1 align="center">Merhaba Ben Yiğit Toker</h1>
 <h3 align="center">Türkiye'de Bir Geliştirici</h3>
 
