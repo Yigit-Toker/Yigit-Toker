@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yigit-toker" alt="yigit-toker" /></a> </p>
 
-- 🌱 Şuanda Öğreniyorum: **HTML,CSS,JAVASCRİPT,ANDROİD STUDİO**
+- 🌱 Şuanda Öğreniyorum: [HTML,CSS,JAVASCRİPT,ANDROİD STUDİO](https://github.com/Yigit-Toker)
 
 - 👨‍💻 Tüm Projelerime Şuradan Ulaş: **https://github.com/Yigit-Toker**
 
-- 💬 Bana Buradan Soru Sor: [Gmail Adres:](yigittoker0054@gmail.com)
+- 💬 Bana Buradan Soru Sor: [yigittoker0054@gmail.com](https://github.com/Yigit-Toker)
 
-- 📫 Bana Ulaşmak İçin: [Gmail Adres:](yigittoker0054@gmail.com)
+- 📫 Bana Ulaşmak İçin: [yigittoker0054@gmail.com](https://github.com/Yigit-Toker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
